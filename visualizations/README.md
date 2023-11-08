@@ -1,0 +1,6 @@
+![plot_contour](https://github.com/Mel-iza/Optuna_hyperparameter_search/assets/72058182/9eb5cda3-18da-420a-a4a9-082bfede0a28)
+![optimization_history](https://github.com/Mel-iza/Optuna_hyperparameter_search/assets/72058182/8bc09150-8d41-4f61-b330-dec8d774f1f5)
+![plot_slice](https://github.com/Mel-iza/Optuna_hyperparameter_search/assets/72058182/9cb360bb-49e7-484b-8b3f-4858f6c0c362)
+![parameter_importances](https://github.com/Mel-iza/Optuna_hyperparameter_search/assets/72058182/b2b52338-3652-4129-af8c-0b9d06647409)
+![empirical_distributions](https://github.com/Mel-iza/Optuna_hyperparameter_search/assets/72058182/ee26701b-3042-4dc5-8532-b50c2f3d646d)
+![timeline](https://github.com/Mel-iza/Optuna_hyperparameter_search/assets/72058182/ffbc904c-328d-46b0-9f89-687c2370323e)
