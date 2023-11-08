@@ -1,8 +1,7 @@
 # Optuna hyperparameter search
 
 This repository was created based on the YouTube tutorial [Hyperparameter Tuning Machine Learning Models with OPTUNA](https://www.youtube.com/watch?v=TgdEZ6LFj-I) from Karndeep Singh.
-The purpose of the repository is to replicate how hyperparameter optimization of a model is done with Optuna through hyperparameter search.
-The video's use case is the optimization of a Bayesian model with the iris dataset.
+The purpose of the repository is for study and learning purposes. With it, I will replicate how hyperparameter optimization of a model is performed using Optuna through hyperparameter search. The video's use case involves optimizing a Bayesian model with the iris dataset.
 
 ## What is Optuna
 [Optuna: A hyperparameter optimization framework](https://optuna.readthedocs.io/en/stable/index.html): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. 
